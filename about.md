@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Why hello there friend!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a duck who can type nice to meet you
 
 ### Contact me
 
