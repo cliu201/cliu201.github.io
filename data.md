@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Data
-permalink: /data/
+title: Working with data
+permalink: /mlab-data/
 ---
